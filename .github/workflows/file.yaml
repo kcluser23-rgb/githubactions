@@ -7,7 +7,7 @@ on:
 
 jobs:
   hello:
-    name: Say Hello
+    name: Say Hello, Welcome all to Telus
     runs-on: self-hosted
 
     steps:
